@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@parcel/plugin": "^2.0.0"
+    "@parcel/plugin": "^2.0.0",
+    "@parcel/utils": "^2.15.4"
   }
 }
